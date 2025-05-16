@@ -1,0 +1,15 @@
+GO_TO_GROUP_START = 'go_to_group_start'
+GROUP_INDEXES = 'group_indexes'
+
+GET_SCHEDULE_TODAY = 'get_schedule_today'
+GET_SCHEDULE_TOMORROW = 'get_schedule_tomorrow'
+GET_SCHEDULE_AT_DAY = 'get_schedule_at_day'
+GO_TO_SCHEDULE_START = 'go_to_schedule_start'
+WEEK_DAYS_INDEXES = 'week_days_indexes'
+
+NEAREST_CALL = 'nearest_call'
+CALLS_TODAY = 'calls_today'
+CALLS_MONDAY = 'calls_monday'
+CALLS_ANOTHER_DAY = 'calls_another_day'
+GO_TO_CALLS = 'go_to_calls'
+PIN_NEAREST_CALL = 'pin_nearest_call'
